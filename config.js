@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Binyamin',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: true,
 
@@ -40,7 +40,7 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'GitHub',
       icon: 'github',
       link: 'https://github.com/',
     },
@@ -53,8 +53,8 @@ const CONFIG = {
     {
       id: '3',
       name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      icon: 'check-circle',
+      link: 'https://todoist.com/app/',
     },
     {
       id: '4',
@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'Raindrop',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://app.raindrop.io/my/0',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Libby',
+      icon: 'book',
+      link: 'https://libbyapp.com/shelf',
     },
   ],
 
